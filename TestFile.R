@@ -1,3 +1,4 @@
+# Title: Software Carpentry Workshop Notes
 # Author: Frederik Titeca
 # Date: Friday, september 15th, 2017
 #### load packages ####
