@@ -1,3 +1,5 @@
+# Author: Frederik Titeca
+
 #### load packages ####
 
 1+100
