@@ -2,6 +2,7 @@
 # Author: Frederik Titeca
 # Date: Friday, september 15th, 2017
 #### load packages ####
+library(ggplot2)
 
 1+100
 
